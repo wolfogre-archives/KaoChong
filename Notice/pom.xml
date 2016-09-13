@@ -7,6 +7,13 @@
     <groupId>com.wolfogre.kaochong</groupId>
     <artifactId>kaochong-notice</artifactId>
     <version>1.0</version>
-
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-context -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-context</artifactId>
+            <version>4.3.2.RELEASE</version>
+        </dependency>
+    </dependencies>
 
 </project>
