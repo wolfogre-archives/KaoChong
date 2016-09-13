@@ -12,8 +12,15 @@ import org.springframework.stereotype.Service;
  */
 @Service
 public class Extrator {
+
     @Autowired
     FileLoader fileLoader;
+
+    @Autowired
+    Database database;
+
+    @Autowired
+    Console console;
 
     public void extratToSqlite() {
         Document doc = Jsoup.parse(fileLoader.getOriginHtml());
@@ -24,7 +31,9 @@ public class Extrator {
             String data = dataList.get(i).text();
             for(Element e : dataCourseList.get(i).getElementsByClass("group_cons")) {
                 Elements spans = e.select("span");
-                System.out.println(data + " " + spans.get(0).text() + " " + spans.get(1).text() + " " + spans.get(2).text());
+                String timeRange = new StringBuilder(spans.get(0).text()).deleteCharAt(6).toString(); // 09:00- 11:00 -> 09:00-11:00
+                database.insertCourse(data + " " + timeRange.split("-")[0], timeRange, spans.get(1).text(), spans.get(2).text());
+                console.writeLine(data + " " + timeRange.split("-")[0] + " | " + timeRange + " | " + spans.get(1).text() + " | " + spans.get(2).text());
             }
         }
 

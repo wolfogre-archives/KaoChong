@@ -2,6 +2,7 @@ package com.wolfogre.kaochong;
 
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
+
 /**
  * Created by wolfogre on 9/13/16.
  */
