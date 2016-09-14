@@ -10,7 +10,7 @@ public class Main {
     public static void main(String[] args){
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(Config.class);
         Extrator extrator = context.getBean(Extrator.class);
-        extrator.extratToSqlite();
+        extrator.extratToICS();
         context.close();
     }
 }
