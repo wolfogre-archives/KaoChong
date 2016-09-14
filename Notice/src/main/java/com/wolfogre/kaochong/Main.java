@@ -7,6 +7,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
  */
 public class Main {
     public static void main(String[] args){
+        // 发邮件提醒的计划放弃
         AnnotationConfigApplicationContext context = new AnnotationConfigApplicationContext(Config.class);
         Mail mail = context.getBean(Mail.class);
         context.close();
