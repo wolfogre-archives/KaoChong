@@ -42,7 +42,7 @@ public class Extrator {
                 String startTime = new StringBuilder(timeRange.split("-")[0]).deleteCharAt(2).append("00").toString(); // 09:00 -> 090000
                 String endTime = new StringBuilder(timeRange.split("-")[1]).deleteCharAt(2).append("00").toString(); // 09:00 -> 090000
                 console.writeLine("BEGIN:VEVENT");
-                console.writeLine("DESCRIPTION:狼煞博客 http://blog.wolfogre.com");
+                //console.writeLine("DESCRIPTION:狼煞博客 http://blog.wolfogre.com");
                 console.writeLine("DTEND:" + data + "T" + endTime);
                 console.writeLine("DTSTART:" + data + "T" + startTime);
                 console.writeLine("ETZ:Asia/Shanghai");
