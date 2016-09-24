@@ -50,7 +50,7 @@ var _hmt = _hmt || [];
 <input type="hidden" type="hidden" style="display:none" id="j-kc-wst" value=>
 <input type="hidden" type="hidden" style="display:none" id="j-expire-day" value=>
 <input id="uidMd5" type="hidden" style="display:none;" value="89e3d5b057c7e78cb46ea3630cc38bd4">
-<input id="stime" type="hidden" style="display:none;" value="1474455277237">
+<input id="stime" type="hidden" style="display:none;" value="1474678912883">
 <input id="promoteId" type="hidden" style="display:none;" value="">
     <div id="nav_head">
         <div class="nav_head_con container">
@@ -202,10 +202,11 @@ var _hmt = _hmt || [];
 
             <div class="lesson_intro float_left">
                 <a href="javascript:;" class="lesson_title">考虫六级系统班 4班</a>
+                    <span id="j-stu-card" class="stu_card_hd"></span>
                 <div class="relate_time">
                         <span class="past_hint">本课程将于2016.12.20 24:00到期</span>
                         <span class="past_countdown">距到期还有<span class="pas_days" id="j-pas-days">--</span>天</span>
-                        <input type="hidden" id="passDays" value="7794321763"/>
+                        <input type="hidden" id="passDays" value="7570686117"/>
                 </div>
                 <div class="lesson_attr clearfix">
                     <div class="float_left phone_live">
@@ -231,11 +232,11 @@ var _hmt = _hmt || [];
 	        <div class="live_enter_bar_hd container ">
 		    	<div class="live_enter_bar  playing  clearfix">
 		    		<span class="live_enter_bar_teacher_pic">
-		    			<img src="/static/imgs/teahcer_no_pic_45e9a0a.png" alt="考虫老师">
+		    			<img src="http://xk-file-bj.oss-cn-beijing.aliyuncs.com/228-2496285707818567433.png" alt="考虫老师">
 		    		</span>
 		    		<div class="lesson_info_hd">
 		    			<div class="lesson_info_title_hd">
-		    				考虫大听写2-你猜
+		    				六级基础阅读1-尹延
 		    			</div>
 		    			<div class="lesson_info_state_hd">
 		    				<span class="lesson_live_state_hint">
@@ -243,12 +244,12 @@ var _hmt = _hmt || [];
 		    				</span>
 		    				<span class="lesson_live_time">
 		    					直播时间：今天
-	                            22:15 -
-	                            22:30
+	                            15:30 -
+	                            17:30
 		    				</span>
 		    			</div>
 		    		</div>
-	    			<a class="live_enter_a state_btn" href="/live/8985.html" target="_blank">
+	    			<a class="live_enter_a state_btn" href="/live/9162.html" target="_blank">
 	    				<div class="live_enter_btn y_word">
 							<i class="live_enter_btn_icon"></i>
 	    					进入课堂
@@ -272,23 +273,23 @@ var _hmt = _hmt || [];
                 <div class="schedule_small_title catalog">直播目录</div>
                         <div class="schedule_groups_border_bottom" id="j-groups">
                             <div class="schedule_group_con schedule_group_con_last j-live-list">
-                                    <h3 class="group_title">2016-09-21</h3>
+                                    <h3 class="group_title">2016-09-24</h3>
                                     <ul class="group_cons_list j-group-cons-list">
                                             <li class="group_cons">
                                                     <div class="list_con float_left">
                                                         <span>
-                                                            22:15-
-                                                            22:30
+                                                            15:30-
+                                                            17:30
                                                         </span>
-                                                        <span>考虫大听写2</span>
-                                                        <span class="teacher">你猜</span>
+                                                        <span>六级基础阅读1</span>
+                                                        <span class="teacher">尹延</span>
                                                     </div>
 
                                                 <div class="right_btn float_right">
 
 
 
-                                                            <a href="/live/8985.html" class="see_replay will_lecture" target="_blank">
+                                                            <a href="/live/9162.html" class="see_replay will_lecture" target="_blank">
                                                                 <div><span></span>即将开课</div>
                                                             </a>
 
@@ -299,120 +300,11 @@ var _hmt = _hmt || [];
                                                         </a>
                                                 </div>
                                             </li>
-                                    </ul>
-                                    <h3 class="group_title">2016-09-22</h3>
-                                    <ul class="group_cons_list j-group-cons-list">
                                             <li class="group_cons">
                                                     <div class="list_con float_left">
                                                         <span>
-                                                            07:00-
-                                                            07:20
-                                                        </span>
-                                                        <span>六级口语跟读4</span>
-                                                        <span class="teacher">黄勇</span>
-                                                    </div>
-
-                                                <div class="right_btn float_right">
-
-
-
-                                                            <a href="javascript:;" class="see_replay set_grey">
-                                                                <div><span></span>未开课</div>
-                                                            </a>
-
-                                                        <a href="javascript:;" class="evaluate set_grey">
-                                                            <div>
-                                                                <span></span>评价
-                                                            </div>
-                                                        </a>
-                                                </div>
-                                            </li>
-                                            <li class="group_cons">
-                                                    <div class="list_con float_left">
-                                                        <span>
-                                                            22:15-
-                                                            22:30
-                                                        </span>
-                                                        <span>夜猫子学英语2</span>
-                                                        <span class="teacher">李尚龙</span>
-                                                    </div>
-
-                                                <div class="right_btn float_right">
-
-
-
-                                                            <a href="javascript:;" class="see_replay set_grey">
-                                                                <div><span></span>未开课</div>
-                                                            </a>
-
-                                                        <a href="javascript:;" class="evaluate set_grey">
-                                                            <div>
-                                                                <span></span>评价
-                                                            </div>
-                                                        </a>
-                                                </div>
-                                            </li>
-                                    </ul>
-                                    <h3 class="group_title">2016-09-23</h3>
-                                    <ul class="group_cons_list j-group-cons-list">
-                                            <li class="group_cons">
-                                                    <div class="list_con float_left">
-                                                        <span>
-                                                            19:30-
-                                                            20:30
-                                                        </span>
-                                                        <span>六级写译每日一句1</span>
-                                                        <span class="teacher">石雷鹏</span>
-                                                    </div>
-
-                                                <div class="right_btn float_right">
-
-
-
-                                                            <a href="javascript:;" class="see_replay set_grey">
-                                                                <div><span></span>未开课</div>
-                                                            </a>
-
-                                                        <a href="javascript:;" class="evaluate set_grey">
-                                                            <div>
-                                                                <span></span>评价
-                                                            </div>
-                                                        </a>
-                                                </div>
-                                            </li>
-                                    </ul>
-                                    <h3 class="group_title">2016-09-24</h3>
-                                    <ul class="group_cons_list j-group-cons-list">
-                                            <li class="group_cons">
-                                                    <div class="list_con float_left">
-                                                        <span>
-                                                            09:00-
-                                                            11:00
-                                                        </span>
-                                                        <span>六级基础阅读1</span>
-                                                        <span class="teacher">尹延</span>
-                                                    </div>
-
-                                                <div class="right_btn float_right">
-
-
-
-                                                            <a href="javascript:;" class="see_replay set_grey">
-                                                                <div><span></span>未开课</div>
-                                                            </a>
-
-                                                        <a href="javascript:;" class="evaluate set_grey">
-                                                            <div>
-                                                                <span></span>评价
-                                                            </div>
-                                                        </a>
-                                                </div>
-                                            </li>
-                                            <li class="group_cons">
-                                                    <div class="list_con float_left">
-                                                        <span>
-                                                            15:30-
-                                                            17:30
+                                                            19:00-
+                                                            21:00
                                                         </span>
                                                         <span>六级基础听力1</span>
                                                         <span class="teacher">Vivian</span>
@@ -422,8 +314,8 @@ var _hmt = _hmt || [];
 
 
 
-                                                            <a href="javascript:;" class="see_replay set_grey">
-                                                                <div><span></span>未开课</div>
+                                                            <a href="/live/9163.html" class="see_replay will_lecture" target="_blank">
+                                                                <div><span></span>即将开课</div>
                                                             </a>
 
                                                         <a href="javascript:;" class="evaluate set_grey">
@@ -464,8 +356,8 @@ var _hmt = _hmt || [];
                                             <li class="group_cons">
                                                     <div class="list_con float_left">
                                                         <span>
-                                                            15:30-
-                                                            17:30
+                                                            19:00-
+                                                            21:00
                                                         </span>
                                                         <span>语法长难句分析1</span>
                                                         <span class="teacher">宋利辉</span>
@@ -525,6 +417,9 @@ var _hmt = _hmt || [];
                                                     </div>
 
                                                 <div class="right_btn float_right">
+                                                            <a href="javascript:;" class="lessontest set_grey">
+                                                                <div><span></span>课后测试</div>
+                                                            </a>
 
 
 
@@ -547,6 +442,31 @@ var _hmt = _hmt || [];
                                                         </span>
                                                         <span>考虫大听写3</span>
                                                         <span class="teacher">你猜</span>
+                                                    </div>
+
+                                                <div class="right_btn float_right">
+
+
+
+                                                            <a href="javascript:;" class="see_replay set_grey">
+                                                                <div><span></span>未开课</div>
+                                                            </a>
+
+                                                        <a href="javascript:;" class="evaluate set_grey">
+                                                            <div>
+                                                                <span></span>评价
+                                                            </div>
+                                                        </a>
+                                                </div>
+                                            </li>
+                                            <li class="group_cons">
+                                                    <div class="list_con float_left">
+                                                        <span>
+                                                            18:15-
+                                                            19:15
+                                                        </span>
+                                                        <span>口语纠音1</span>
+                                                        <span class="teacher">黄勇</span>
                                                     </div>
 
                                                 <div class="right_btn float_right">
@@ -603,6 +523,9 @@ var _hmt = _hmt || [];
                                                     </div>
 
                                                 <div class="right_btn float_right">
+                                                            <a href="javascript:;" class="lessontest set_grey">
+                                                                <div><span></span>课后测试</div>
+                                                            </a>
 
 
 
@@ -625,6 +548,31 @@ var _hmt = _hmt || [];
                                                         </span>
                                                         <span>夜猫子学英语3</span>
                                                         <span class="teacher">李尚龙</span>
+                                                    </div>
+
+                                                <div class="right_btn float_right">
+
+
+
+                                                            <a href="javascript:;" class="see_replay set_grey">
+                                                                <div><span></span>未开课</div>
+                                                            </a>
+
+                                                        <a href="javascript:;" class="evaluate set_grey">
+                                                            <div>
+                                                                <span></span>评价
+                                                            </div>
+                                                        </a>
+                                                </div>
+                                            </li>
+                                            <li class="group_cons">
+                                                    <div class="list_con float_left">
+                                                        <span>
+                                                            18:15-
+                                                            19:15
+                                                        </span>
+                                                        <span>口语纠音2</span>
+                                                        <span class="teacher">黄勇</span>
                                                     </div>
 
                                                 <div class="right_btn float_right">
@@ -673,8 +621,8 @@ var _hmt = _hmt || [];
                                             <li class="group_cons">
                                                     <div class="list_con float_left">
                                                         <span>
-                                                            07:00-
-                                                            09:00
+                                                            19:00-
+                                                            21:00
                                                         </span>
                                                         <span>六级基础听力3</span>
                                                         <span class="teacher">Vivian</span>
@@ -720,14 +668,39 @@ var _hmt = _hmt || [];
                                                         </a>
                                                 </div>
                                             </li>
+                                            <li class="group_cons">
+                                                    <div class="list_con float_left">
+                                                        <span>
+                                                            18:15-
+                                                            19:15
+                                                        </span>
+                                                        <span>口语纠音3</span>
+                                                        <span class="teacher">黄勇</span>
+                                                    </div>
+
+                                                <div class="right_btn float_right">
+
+
+
+                                                            <a href="javascript:;" class="see_replay set_grey">
+                                                                <div><span></span>未开课</div>
+                                                            </a>
+
+                                                        <a href="javascript:;" class="evaluate set_grey">
+                                                            <div>
+                                                                <span></span>评价
+                                                            </div>
+                                                        </a>
+                                                </div>
+                                            </li>
                                     </ul>
                                     <h3 class="group_title">2016-09-29</h3>
                                     <ul class="group_cons_list j-group-cons-list">
                                             <li class="group_cons">
                                                     <div class="list_con float_left">
                                                         <span>
-                                                            07:00-
-                                                            09:00
+                                                            19:00-
+                                                            21:00
                                                         </span>
                                                         <span>六级基础阅读3</span>
                                                         <span class="teacher">尹延</span>
@@ -798,8 +771,33 @@ var _hmt = _hmt || [];
                                                         </a>
                                                 </div>
                                             </li>
+                                            <li class="group_cons">
+                                                    <div class="list_con float_left">
+                                                        <span>
+                                                            18:15-
+                                                            19:15
+                                                        </span>
+                                                        <span>口语纠音4</span>
+                                                        <span class="teacher">黄勇</span>
+                                                    </div>
+
+                                                <div class="right_btn float_right">
+
+
+
+                                                            <a href="javascript:;" class="see_replay set_grey">
+                                                                <div><span></span>未开课</div>
+                                                            </a>
+
+                                                        <a href="javascript:;" class="evaluate set_grey">
+                                                            <div>
+                                                                <span></span>评价
+                                                            </div>
+                                                        </a>
+                                                </div>
+                                            </li>
                                     </ul>
-                                    <h3 class="group_title">2016-09-30</h3>
+                                    <h3 class="group_title">2016-10-14</h3>
                                     <ul class="group_cons_list j-group-cons-list">
                                             <li class="group_cons">
                                                     <div class="list_con float_left">
@@ -826,6 +824,84 @@ var _hmt = _hmt || [];
                                                         </a>
                                                 </div>
                                             </li>
+                                            <li class="group_cons">
+                                                    <div class="list_con float_left">
+                                                        <span>
+                                                            16:30-
+                                                            17:30
+                                                        </span>
+                                                        <span>跟外教学地道美语1</span>
+                                                        <span class="teacher">你猜</span>
+                                                    </div>
+
+                                                <div class="right_btn float_right">
+
+
+
+                                                            <a href="javascript:;" class="see_replay set_grey">
+                                                                <div><span></span>未开课</div>
+                                                            </a>
+
+                                                        <a href="javascript:;" class="evaluate set_grey">
+                                                            <div>
+                                                                <span></span>评价
+                                                            </div>
+                                                        </a>
+                                                </div>
+                                            </li>
+                                            <li class="group_cons">
+                                                    <div class="list_con float_left">
+                                                        <span>
+                                                            17:40-
+                                                            18:40
+                                                        </span>
+                                                        <span>六级写译每日一句3</span>
+                                                        <span class="teacher">石雷鹏</span>
+                                                    </div>
+
+                                                <div class="right_btn float_right">
+
+
+
+                                                            <a href="javascript:;" class="see_replay set_grey">
+                                                                <div><span></span>未开课</div>
+                                                            </a>
+
+                                                        <a href="javascript:;" class="evaluate set_grey">
+                                                            <div>
+                                                                <span></span>评价
+                                                            </div>
+                                                        </a>
+                                                </div>
+                                            </li>
+                                            <li class="group_cons">
+                                                    <div class="list_con float_left">
+                                                        <span>
+                                                            19:00-
+                                                            21:00
+                                                        </span>
+                                                        <span>经济学人外刊选读2</span>
+                                                        <span class="teacher">袁雨斌</span>
+                                                    </div>
+
+                                                <div class="right_btn float_right">
+
+
+
+                                                            <a href="javascript:;" class="see_replay set_grey">
+                                                                <div><span></span>未开课</div>
+                                                            </a>
+
+                                                        <a href="javascript:;" class="evaluate set_grey">
+                                                            <div>
+                                                                <span></span>评价
+                                                            </div>
+                                                        </a>
+                                                </div>
+                                            </li>
+                                    </ul>
+                                    <h3 class="group_title">2016-09-30</h3>
+                                    <ul class="group_cons_list j-group-cons-list">
                                             <li class="group_cons">
                                                     <div class="list_con float_left">
                                                         <span>
@@ -973,7 +1049,7 @@ var _hmt = _hmt || [];
                                                             21:00
                                                         </span>
                                                         <span>六级基础阅读4</span>
-                                                        <span class="teacher">尹延</span>
+                                                        <span class="teacher">宋利辉</span>
                                                     </div>
 
                                                 <div class="right_btn float_right">
@@ -1005,6 +1081,9 @@ var _hmt = _hmt || [];
                                                     </div>
 
                                                 <div class="right_btn float_right">
+                                                            <a href="javascript:;" class="lessontest set_grey">
+                                                                <div><span></span>课后测试</div>
+                                                            </a>
 
 
 
@@ -1360,84 +1439,6 @@ var _hmt = _hmt || [];
                                                 </div>
                                             </li>
                                     </ul>
-                                    <h3 class="group_title">2016-10-14</h3>
-                                    <ul class="group_cons_list j-group-cons-list">
-                                            <li class="group_cons">
-                                                    <div class="list_con float_left">
-                                                        <span>
-                                                            16:30-
-                                                            17:30
-                                                        </span>
-                                                        <span>跟外教学地道美语1</span>
-                                                        <span class="teacher">你猜</span>
-                                                    </div>
-
-                                                <div class="right_btn float_right">
-
-
-
-                                                            <a href="javascript:;" class="see_replay set_grey">
-                                                                <div><span></span>未开课</div>
-                                                            </a>
-
-                                                        <a href="javascript:;" class="evaluate set_grey">
-                                                            <div>
-                                                                <span></span>评价
-                                                            </div>
-                                                        </a>
-                                                </div>
-                                            </li>
-                                            <li class="group_cons">
-                                                    <div class="list_con float_left">
-                                                        <span>
-                                                            17:40-
-                                                            18:40
-                                                        </span>
-                                                        <span>六级写译每日一句3</span>
-                                                        <span class="teacher">石雷鹏</span>
-                                                    </div>
-
-                                                <div class="right_btn float_right">
-
-
-
-                                                            <a href="javascript:;" class="see_replay set_grey">
-                                                                <div><span></span>未开课</div>
-                                                            </a>
-
-                                                        <a href="javascript:;" class="evaluate set_grey">
-                                                            <div>
-                                                                <span></span>评价
-                                                            </div>
-                                                        </a>
-                                                </div>
-                                            </li>
-                                            <li class="group_cons">
-                                                    <div class="list_con float_left">
-                                                        <span>
-                                                            19:00-
-                                                            21:00
-                                                        </span>
-                                                        <span>经济学人外刊选读2</span>
-                                                        <span class="teacher">袁雨斌</span>
-                                                    </div>
-
-                                                <div class="right_btn float_right">
-
-
-
-                                                            <a href="javascript:;" class="see_replay set_grey">
-                                                                <div><span></span>未开课</div>
-                                                            </a>
-
-                                                        <a href="javascript:;" class="evaluate set_grey">
-                                                            <div>
-                                                                <span></span>评价
-                                                            </div>
-                                                        </a>
-                                                </div>
-                                            </li>
-                                    </ul>
                                     <h3 class="group_title">2016-10-15</h3>
                                     <ul class="group_cons_list j-group-cons-list">
                                             <li class="group_cons">
@@ -1706,7 +1707,7 @@ var _hmt = _hmt || [];
                                                             21:00
                                                         </span>
                                                         <span>六级基础阅读5</span>
-                                                        <span class="teacher">尹延</span>
+                                                        <span class="teacher">宋利辉</span>
                                                     </div>
 
                                                 <div class="right_btn float_right">
@@ -2018,7 +2019,7 @@ var _hmt = _hmt || [];
                                                             11:00
                                                         </span>
                                                         <span>六级基础阅读6</span>
-                                                        <span class="teacher">尹延</span>
+                                                        <span class="teacher">宋利辉</span>
                                                     </div>
 
                                                 <div class="right_btn float_right">
@@ -3340,7 +3341,7 @@ var _hmt = _hmt || [];
                                                             11:00
                                                         </span>
                                                         <span>六级强化阅读1</span>
-                                                        <span class="teacher">尹延</span>
+                                                        <span class="teacher">宋利辉</span>
                                                     </div>
 
                                                 <div class="right_btn float_right">
@@ -3496,7 +3497,7 @@ var _hmt = _hmt || [];
                                                             11:00
                                                         </span>
                                                         <span>六级强化阅读2</span>
-                                                        <span class="teacher">尹延</span>
+                                                        <span class="teacher">宋利辉</span>
                                                     </div>
 
                                                 <div class="right_btn float_right">
@@ -3521,7 +3522,7 @@ var _hmt = _hmt || [];
                                                             15:00
                                                         </span>
                                                         <span>六级强化阅读3</span>
-                                                        <span class="teacher">尹延</span>
+                                                        <span class="teacher">宋利辉</span>
                                                     </div>
 
                                                 <div class="right_btn float_right">
@@ -3977,6 +3978,144 @@ var _hmt = _hmt || [];
                                                 <li class="schedule_passed">
                                                     <div class="schedule_passed_con clearfix">
                                                         <div class="float_left">
+                                                            <div class="serial_num  no_play">10</div>
+                                                            <div class="list_con float_left">
+                                                                <span>六级写译每日一句1</span>
+                                                                <span class="teacher">石雷鹏</span><br>
+                                                                <span class="time">
+                                                                    2016-09-23 19:30 -
+                                                                    20:30
+                                                                </span>
+                                                            </div>
+
+                                                        </div>
+                                                        <div class="right_btn float_right default_right_btn">
+
+                                                        <a href="/live/8991.html" class="see_replay" target="_blank">
+                                                            <div><span></span>看回放</div>
+                                                        </a>
+                                                        <a href="/comment/list.html?lessonId=8991&title=六级写译每日一句1&tn=石雷鹏&courseId=294" class="evaluate" target="_blank">
+                                                            <div>
+                                                                <span></span>评价 (5) 
+                                                            </div>
+                                                         </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li class="schedule_passed">
+                                                    <div class="schedule_passed_con clearfix">
+                                                        <div class="float_left">
+                                                            <div class="serial_num  no_play">9</div>
+                                                            <div class="list_con float_left">
+                                                                <span>夜猫子学英语2</span>
+                                                                <span class="teacher">李尚龙</span><br>
+                                                                <span class="time">
+                                                                    2016-09-22 22:15 -
+                                                                    22:30
+                                                                </span>
+                                                            </div>
+                                                            <div class="learned j-learned-box learned_padtop" data-lessonid="9656">
+                                                                <span class="learned_text j-learned">已学过</span>
+                                                                <div class="learned_state_box j-learned-state-box">
+                                                                    <span class="learned_state_hint">是否标记为未学过？</span>
+                                                                    <div class="learned_state_btn">
+                                                                        <div class="learned_btn learned_btn_no">否</div>
+                                                                        <div class="learned_btn learned_btn_yes">是</div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                        <div class="right_btn float_right default_right_btn">
+
+                                                        <a href="/live/9656.html" class="see_replay" target="_blank">
+                                                            <div><span></span>看回放</div>
+                                                        </a>
+                                                        <a href="/comment/list.html?lessonId=9656&title=夜猫子学英语2&tn=李尚龙&courseId=294" class="evaluate" target="_blank">
+                                                            <div>
+                                                                <span></span>评价 (6) 
+                                                            </div>
+                                                         </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li class="schedule_passed">
+                                                    <div class="schedule_passed_con clearfix">
+                                                        <div class="float_left">
+                                                            <div class="serial_num  no_play">8</div>
+                                                            <div class="list_con float_left">
+                                                                <span>六级口语跟读4</span>
+                                                                <span class="teacher">黄勇</span><br>
+                                                                <span class="time">
+                                                                    2016-09-22 07:00 -
+                                                                    07:20
+                                                                </span>
+                                                            </div>
+                                                            <div class="learned j-learned-box learned_padtop" data-lessonid="8987">
+                                                                <span class="learned_text j-learned">已学过</span>
+                                                                <div class="learned_state_box j-learned-state-box">
+                                                                    <span class="learned_state_hint">是否标记为未学过？</span>
+                                                                    <div class="learned_state_btn">
+                                                                        <div class="learned_btn learned_btn_no">否</div>
+                                                                        <div class="learned_btn learned_btn_yes">是</div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                        <div class="right_btn float_right default_right_btn">
+
+                                                        <a href="/live/8987.html" class="see_replay" target="_blank">
+                                                            <div><span></span>看回放</div>
+                                                        </a>
+                                                        <a href="/comment/list.html?lessonId=8987&title=六级口语跟读4&tn=黄勇&courseId=294" class="evaluate" target="_blank">
+                                                            <div>
+                                                                <span></span>评价
+                                                            </div>
+                                                         </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li class="schedule_passed">
+                                                    <div class="schedule_passed_con clearfix">
+                                                        <div class="float_left">
+                                                            <div class="serial_num  no_play">7</div>
+                                                            <div class="list_con float_left">
+                                                                <span>考虫大听写2</span>
+                                                                <span class="teacher">你猜</span><br>
+                                                                <span class="time">
+                                                                    2016-09-21 22:15 -
+                                                                    22:30
+                                                                </span>
+                                                            </div>
+                                                            <div class="learned j-learned-box learned_padtop" data-lessonid="8985">
+                                                                <span class="learned_text j-learned">已学过</span>
+                                                                <div class="learned_state_box j-learned-state-box">
+                                                                    <span class="learned_state_hint">是否标记为未学过？</span>
+                                                                    <div class="learned_state_btn">
+                                                                        <div class="learned_btn learned_btn_no">否</div>
+                                                                        <div class="learned_btn learned_btn_yes">是</div>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        </div>
+                                                        <div class="right_btn float_right default_right_btn">
+
+                                                        <a href="/live/8985.html" class="see_replay" target="_blank">
+                                                            <div><span></span>看回放</div>
+                                                        </a>
+                                                        <a href="/comment/list.html?lessonId=8985&title=考虫大听写2&tn=你猜&courseId=294" class="evaluate" target="_blank">
+                                                            <div>
+                                                                <span></span>评价 (5) 
+                                                            </div>
+                                                         </a>
+                                                        </div>
+                                                    </div>
+                                                </li>
+                                                <li class="schedule_passed">
+                                                    <div class="schedule_passed_con clearfix">
+                                                        <div class="float_left">
                                                             <div class="serial_num  no_play">6</div>
                                                             <div class="list_con float_left">
                                                                 <span>六级口语跟读3</span>
@@ -4042,7 +4181,7 @@ var _hmt = _hmt || [];
                                                         </a>
                                                         <a href="/comment/list.html?lessonId=9652&title=夜猫子学英语1&tn=李尚龙&courseId=294" class="evaluate" target="_blank">
                                                             <div>
-                                                                <span></span>评价 (11) 
+                                                                <span></span>评价 (14) 
                                                             </div>
                                                          </a>
                                                         </div>
@@ -4116,7 +4255,7 @@ var _hmt = _hmt || [];
                                                         </a>
                                                         <a href="/comment/list.html?lessonId=8972&title=考虫大听写1&tn=你猜&courseId=294" class="evaluate" target="_blank">
                                                             <div>
-                                                                <span></span>评价 (9) 
+                                                                <span></span>评价 (10) 
                                                             </div>
                                                          </a>
                                                         </div>
@@ -4153,7 +4292,7 @@ var _hmt = _hmt || [];
                                                         </a>
                                                         <a href="/comment/list.html?lessonId=8967&title=六级口语跟读1&tn=黄勇&courseId=294" class="evaluate" target="_blank">
                                                             <div>
-                                                                <span></span>评价 (12) 
+                                                                <span></span>评价 (13) 
                                                             </div>
                                                          </a>
                                                         </div>
@@ -4190,7 +4329,7 @@ var _hmt = _hmt || [];
                                                         </a>
                                                         <a href="/comment/list.html?lessonId=9403&title=考虫规划课程&tn=尹延&courseId=294" class="evaluate" target="_blank">
                                                             <div>
-                                                                <span></span>评价 (45) 
+                                                                <span></span>评价 (48) 
                                                             </div>
                                                          </a>
                                                         </div>
@@ -4301,14 +4440,14 @@ var _hmt = _hmt || [];
 
         <input type="hidden" id="j-id" value="294"/>
         <input type="hidden" id="j-finish" value="1480856400000"/>
-    <input type="hidden" id="j-stime" value="1474455277237"/>
+    <input type="hidden" id="j-stime" value="1474678912883"/>
     <input type="hidden" id="courseId" value="294"/>
     <input type="hidden" class="source_addr" value="lesson"/>
     <input type="hidden" class="page_state" value="web"/>
     <input type="hidden" id="bought" value="1"/>
     <input type="hidden" id="login" value="1"/>
-    <input type="hidden" id="needCard" value="0"/>
-    <input type="hidden" id="isCreateCard" value=""/>
+    <input type="hidden" id="needCard" value="1"/>
+    <input type="hidden" id="isCreateCard" value="1"/>
 	<input type="hidden" id="orderNo" value="KC285407oAr5A89XdJXX"/>
 	<input type="hidden" id="payTime" value="1473765343730"/>
 	<input type="hidden" id="expressTip" value="0"/>
@@ -4316,7 +4455,44 @@ var _hmt = _hmt || [];
 	<input type="hidden" id="deadLine" value=""/>
 	<input type="hidden" id="idMd5" value="89e3d5b057c7e78cb46ea3630cc38bd4"/>
 
-    
+        <div id="j-pop-stucard-con" class="pop_con" style="display:none;">
+            <div id="j-mirror" class="mirror"></div>
+            <div id="j-pop-box" class="pop_box" >
+                <div class="stucard_title">
+                    <span class="stucard_l">考虫学生证</span>
+                    <span class="stucard_r"></span>
+                </div>
+                <div class="stucard_yellow_part">
+                    <div class="yp_t">
+                        <span id="j-name" class="stucard_username">狼煞</span>
+                        <span id="j-location" class="stucard_location">上海市市区</span>
+                    </div>
+                    <div id="j-class" class="yp_b">
+                        考虫六级系统班 4班
+                    </div>
+                </div>
+                <div class="stucard_num_hd">
+                    <div class="stucard_num_label">学生证号</div>
+                    <div id="j-cardno" class="stucard_num">20160202940087</div>
+                </div>
+                <div class="schoolinfo_hd">
+                    <div class="stucard_school_hd">
+                        <span class="stuc_school_label">学校</span>
+                        <span id="j-school" class="stuc_school_name">上海大学</span>
+                    </div>
+                    <div class="stucard_examinfo_hd">
+                        <span class="stuc_school_label">考试记录</span>
+                        <span id="j-grade" class="stuc_grade">上次六级425分</span>
+                    </div>
+                    <div class="stucard_logo_hd">
+                        <img class="stucard_logo" src="/static/imgs/account/kc_stucard_kclogo_dadc2e5.png" \>
+                    </div>
+                    <div id="j-close-stucard" class="close_border">
+                        <i class="close_stu_card"></i>
+                    </div>
+                </div>
+            </div>
+        </div>
 <!--ModifyAddressBox-->
     <div class="compile_address_layer">
         <div class="check_background"></div>
